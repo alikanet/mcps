@@ -3,8 +3,8 @@
     "portainer": {
       "command": "portainer-mcp",
       "args": [
-        "-server", "localhost:9000",
-        "-token", "YOUR_PORTAINER_TOKEN_HERE"
+        "-server", "portainer.faradayos.cc",
+        "-token", "ptr_seW0kqD5hWimUdX2NziXBDoxBxWSfQyKucl1XkGJ/Nk="
       ]
     }
   }
