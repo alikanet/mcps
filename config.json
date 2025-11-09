@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "portainer": {
+      "command": "portainer-mcp",
+      "args": [
+        "-server", "localhost:9000",
+        "-token", "YOUR_PORTAINER_TOKEN_HERE"
+      ]
+    }
+  }
+}
