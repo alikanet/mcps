@@ -3,7 +3,7 @@
     "portainer": {
       "command": "portainer-mcp",
       "args": [
-        "-server", "host.docker.internal:9443",
+        "-server", "65.181.118.222:9443",
         "-token", "ptr_seW0kqD5hWimUdX2NziXBDoxBxWSfQyKucl1XkGJ/Nk="
       ]
     }
