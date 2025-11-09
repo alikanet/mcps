@@ -3,7 +3,7 @@
     "portainer": {
       "command": "portainer-mcp",
       "args": [
-        "-server", "portainer.faradayos.cc",
+        "-server", "portainer.faradayos.cc:9443",
         "-token", "ptr_seW0kqD5hWimUdX2NziXBDoxBxWSfQyKucl1XkGJ/Nk="
       ]
     }
