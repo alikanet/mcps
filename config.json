@@ -3,7 +3,7 @@
     "portainer": {
       "command": "portainer-mcp",
       "args": [
-        "-server", "portainer",
+        "-server", "172.18.0.1:9000",
         "-token", "ptr_seW0kqD5hWimUdX2NziXBDoxBxWSfQyKucl1XkGJ/Nk="
       ]
     }
